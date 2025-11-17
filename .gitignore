@@ -1,0 +1,13 @@
+dist
+node_modules
+.angular
+instal
+@todo*
+config*.json
+/build
+/truss-calculator
+/center-of-mass
+/deadly-cannons
+/AnCad
+/ng-gaz
+/exchange-rates
