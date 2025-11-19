@@ -11,3 +11,4 @@ config*.json
 /AnCad
 /ng-gaz
 /exchange-rates
+/encrypted
