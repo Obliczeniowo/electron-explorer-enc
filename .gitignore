@@ -12,3 +12,4 @@ config*.json
 /ng-gaz
 /exchange-rates
 /encrypted
+/enc
