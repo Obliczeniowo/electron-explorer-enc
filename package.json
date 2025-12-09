@@ -58,7 +58,6 @@
     "globby": "^16.0.0",
     "is-path-inside": "^4.0.0",
     "jspdf": "^2.5.1",
-    "jszip": "^3.10.1",
     "mammoth": "^1.11.0",
     "minimist": "^1.2.8",
     "monaco-editor": "^0.53.0",
