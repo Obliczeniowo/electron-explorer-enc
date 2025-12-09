@@ -1,0 +1,31 @@
+[
+    {
+        "mode": "decrypt",
+        "path": "../encrypted",
+        "output": "../",
+        "password": "password",
+        "override": true,
+        "exclude": [
+            ".gitignore",
+            ".git",
+            "dist",
+            "instal",
+            "node_modules",
+            ".vscode",
+            "config-decrypt.json",
+            "config.json",
+            "config-encrypt.json",
+            "encrypted",
+            ".angular",
+            "center-of-mass",
+            "deadly-cannons",
+            "AnCad",
+            "ng-gaz",
+            "exchange-rates",
+            "truss-calculator"
+        ],
+        "copy": [
+            ".gitignore"
+        ]
+    }
+]
