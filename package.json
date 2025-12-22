@@ -60,7 +60,7 @@
   "build": {
     "appId": "com.obliczeniowo.explorer",
     "productName": "ExploringFiles",
-    "icon": "dist/browser/assets/icon",
+    "icon": "explorer-angular/dist/browser/assets/icon",
     "directories": {
       "buildResources": "build",
       "output": "dist/electron"
