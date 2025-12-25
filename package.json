@@ -79,7 +79,8 @@
       "eng.traineddata",
       "pol.traineddata",
       "electron/**/*",
-      "components/**/*"
+      "components/**/*",
+      "electron-views/**/*"
     ],
     "extraResources": [
       {
