@@ -78,7 +78,8 @@
       "package.json",
       "eng.traineddata",
       "pol.traineddata",
-      "electron/**/*"
+      "electron/**/*",
+      "components/**/*"
     ],
     "extraResources": [
       {
